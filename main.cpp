@@ -25,7 +25,7 @@ int main()
   //of the element's row and column and the third blank should be replaced
   //with the value of that element
 
-  
+  cout<<"Hi."<<endl;  
 
 
 
